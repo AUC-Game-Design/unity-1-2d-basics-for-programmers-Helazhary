@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2d-basics.sln"
+    "dotnet.defaultSolution": "unity-1-2d-basics-for-programmers-Helazhary.sln"
 }
